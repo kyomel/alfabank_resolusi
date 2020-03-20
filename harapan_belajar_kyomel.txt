@@ -1,0 +1,5 @@
+Harapan belajar Web:
+-menguasai HTML
+-menguasai CSS
+-menguasai Javascript
+-menguasai PHP
